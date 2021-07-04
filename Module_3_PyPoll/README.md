@@ -6,7 +6,9 @@ The purpose of this election audit was to elucidate the county-specific statisti
 ## Election-Audit Results: 
 
 *Total votes cast in congressional election: **369,771***
+
 *Winning candidate, their vote count and percentage of votes:  **Diana DeGette: 73.8% (272,892)***
+
 *County with the largest number of votes: **Denver***
 
 *County-specific details:*
