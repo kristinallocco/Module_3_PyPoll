@@ -1,24 +1,22 @@
-# Module_3_PyPoll
+# Module 3 PyPoll
+*04 July 2021*
 
 ## Overview of Election Audit: 
 The purpose of this election audit was to elucidate the county-specific statistics in an effort to compound them with the candidate information previously gathered to give a more detailed picture of the election in question. 
 
 ## Election-Audit Results: 
 
-*Total votes cast in congressional election: **369,771***
+#### *Overall Results*
+* Total votes cast in congressional election: **369,771**
+* Winning candidate, their vote count and percentage of votes:  **Diana DeGette: 73.8% (272,892)**
+* County with the largest number of votes: **Denver**
 
-*Winning candidate, their vote count and percentage of votes:  **Diana DeGette: 73.8% (272,892)***
-
-*County with the largest number of votes: **Denver***
-
-
-*County-specific details:*
+#### *County-specific details*
 * Jefferson: 10.5% (38,855)
 * Denver: 82.8% (306,055)
 * Arapahoe: 6.7% (24,801)
 
-
-*Candidate-specific details*
+#### *Candidate-specific details*
 * Charles Casper Stockham: 23.0% (85,213)
 * Diana DeGette: 73.8% (272,892)
 * Raymon Anthony Doane: 3.1% (11,606)
